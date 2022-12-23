@@ -1,0 +1,62 @@
+﻿<html>
+<head>
+<title>橙汁南瓜燉飯</a>
+</title>
+</head>
+<body>
+<a href="1nd.html">美食介紹首頁</a>
+<h2><font face=標楷體 size="5">橙汁南瓜燉飯</font></h2><p>
+<img src="./image/005.jpg" alt="橙汁南瓜燉飯" width="250"height"300"><p>
+<font face=標楷體 size="4.5">-南瓜切塊 -丟小鍋</font><p>
+<font face=標楷體 size="4.5">-洋蔥一半切碎，一半切丁 -丟小鍋，煮到一半放兩片月桂葉，小火煮到爛，用果汁機打成汁</font><p>
+<font face=標楷體 size="4.5">-柳丁削絲</font><p>
+<font face=標楷體 size="4.5">-洋菇/1顆切碎，一顆上面畫米字</font><p>
+<font face=標楷體 size="4.5">-紅蔥頭2顆/切碎（1開3）杏鮑菇/1顆切碎，其他切網狀</font><p>
+<font face=標楷體 size="4.5">-美白菇/撥一塊一塊</font><p>
+<font face=標楷體 size="4.5">-甜椒/去膜切小丁</font><p>
+<font face=標楷體 size="4.5">-飯放大白+水淹過米，+少許鹽、南瓜汁等到收到快沒水分在+第二次水收到快沒汁，第三次再+一次水進行最後調味，南瓜汁、濃縮柳橙
+收到快沒汁就可以</font><p>
+<font face=標楷體 size="4.5">-雞腿多餘油脂去除，加鹽、黑胡椒粒、迷迭香(切碎)、白酒，放在肉上翻過來，（變肉朝下）</font><p>
+<font face=標楷體 size="4.5">-花椰菜燙</font><p>
+<font face=標楷體 size="4.5">-雞肉煎熟、上色</font><p>
+<font face=標楷體 size="4.5">-菇類煎上色</font><p>
+<font face=標楷體 size="4.5">-加胡椒粉、鹽</font><p>
+<font face=標楷體 size="4.5">-起鍋前下一半奶油</font><p>
+
+
+<img src="./image/001.jpg" alt="香煎鴨胸佐紅酒醬介紹" width="210"height"300">
+第一道<a href="2nd.html">香煎鴨胸佐紅酒醬介紹</a>
+
+<img src="./image/002.jpg" alt="茄汁義大利麵" width="250"height"300">
+第二道<a href="3nd.html">茄汁義大利麵</a><p>
+
+<img src="./image/003.jpg" alt="香煎迷迭羊小排" width="250"height"300">
+第三道<a href="6nd.html">香煎迷迭羊小排</a>
+
+<img src="./image/004.jpg" alt="香煎鮭魚佐魚子醬" width="200"height"300">
+第四道<a href="5nd.html">香煎鮭魚佐魚子醬</a>
+
+<p>
+
+<video width="320" height="240" controls>
+<source src="001.mp4" type="video/mp4">
+<source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+<audio controls>
+<source src="horse.ogg" type="audio/ogg">
+<source src="33.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<p>
+<font face=標楷體 size="5">心得:</font><p>
+<font face=標楷體 size="4.5">寫完程式之後又多學會了一項技能，在這過程中我運用了字體、連結、音樂、影片、圖片，只差字體顏色沒運用到，單純是我覺得黑色就可以了不用太繽紛!</font><p>
+<font face=標楷體 size="4.5">過程中很有趣，也可以按到自己的喜好去排版，調整大小粗細，而這也讓我的專注力更強了，因為這只要一個字母打錯，程式就跑不出來了，所以專注很重要!</font><p>
+<font face=標楷體 size="4.5">為了做好完整的程式，試了好多方法才覺得現在的成果是我要的，雖然稱不上最好，但這也是我花很多時間學來的一項技能，多學一項有可能之後會用道也說不定，</font><p>
+<font face=標楷體 size="4.5">所以學一點是一點是好的，對我們自己也好，至少有這些基礎可以運用，也很剛好我想修的科系是資訊，所以對我來說是很大的考驗，先學會基礎工，之後才更容易上手。</font><p>
+<font face=標楷體 size="4.5">雖然只要做三個網頁，但我做了六個，這是為了測驗我的定力及專注力，很明顯的我做到了!很有成就感也很興奮!</font><p>
+<font face=標楷體 size="4.5">這學期的成果都在這個程式裡了，我也希望老師能給真正學習的同學分數高一點，而不是不平衡，有些出席很低，但靠著別人拿取比自己還高成績，真的很不公平，這點可能再請老師多注意，謝謝。</font><p>
+
+</body>
+</html>
